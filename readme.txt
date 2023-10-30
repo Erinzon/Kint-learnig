@@ -30,6 +30,3 @@ for user create or student
 Admin
 user: admin@example.com
 pass: admin
-
-****** https://www.alphacodecamp.com.ng/ ******
-Subcribe my Youtube Channel **** alphacodecamp ****
